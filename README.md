@@ -1,6 +1,6 @@
-# Sound-Activated LED
+# Sound-Sensor-LED
 
-LED turns on when a clap or loud noise is detected by a sound sensor.
+LED turns on when a clap or loud noise is detected by the sound sensor.
 
 ## Description
 A sound sensor module monitors ambient noise levels. When a clap or loud sound exceeds the sensitivity threshold, the LED turns on for 3 seconds then turns off. Demonstrates event-driven output logic and digital input reading from an audio sensor on an Arduino.
